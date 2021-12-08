@@ -16,7 +16,7 @@ int main(void) {
 	
 	for(c=0; c < 30; c++) {
 		s=matriz[0][c];
-		printf("Soma da linha %d: %d \n", c, s);
+		printf("Soma da coluna %d: %d \n", c, s);
 	}
 	
 }
